@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #0678e3;
+  background: #0066b8;
   color: #fff;
 }
 .back-to-top.active {
@@ -977,7 +977,7 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #0678e3;
+  background: #0066b8;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1038,7 +1038,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #0066b8;
   color: #fff;
   text-decoration: none;
 }
